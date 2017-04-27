@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Piano
+comment0.text=\r\n\ A\ piano\ that\ can\ be\ played\ with\ the\ computer\ keyboard.\r\n\ Amanda\ Schepp\r\n\ Mr.Hardman\r\n\ April\ 20th\r\n\ Assignment\ 3\r\n
+comment1.params=
+comment1.target=Piano()
+comment1.text=\r\n\ Make\ the\ piano.\r\n
+comment2.params=
+comment2.target=void\ makeKeys()
+comment2.text=\r\n\ makeKeys\ will\ make\ the\ keys\ and\ put\ them\ on\ the\ screen\r\n\ @Pram\ there\ are\ no\ parameters\r\n\ @Return\ nothing\ is\ returned\r\n
+numComments=3

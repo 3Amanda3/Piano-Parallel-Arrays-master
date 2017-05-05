@@ -3,8 +3,8 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, and Greenfoot)
  * Key class
  * Amanda Schepp
  * Mr.Hardman
- * April 20th
- * Assignment 3
+ * May 5th
+ * Assignment 4
  */
 public class Key extends Actor
 {
@@ -12,7 +12,7 @@ public class Key extends Actor
     private String key;
     private String sound;
     private String notPressed;
-    private String pressed;
+    private String pressed;   
         
     /**
      * Create a new key.
@@ -62,6 +62,16 @@ public class Key extends Actor
     public void play()
     {
         Greenfoot.playSound(sound + ".wav");
+    }
+    
+    /**
+     * checkDown will return the boolean vairable isDown
+     * @return isDown is returned
+     * @param there are no parameters
+     */
+    public boolean checkDown()
+    {
+        return isDown;
     }
 }
 

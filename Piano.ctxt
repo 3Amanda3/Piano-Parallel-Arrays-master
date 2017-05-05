@@ -1,10 +1,24 @@
 #BlueJ class context
 comment0.target=Piano
-comment0.text=\r\n\ A\ piano\ that\ can\ be\ played\ with\ the\ computer\ keyboard.\r\n\ Amanda\ Schepp\r\n\ Mr.Hardman\r\n\ April\ 20th\r\n\ Assignment\ 3\r\n
+comment0.text=\r\n\ A\ piano\ that\ can\ be\ played\ with\ the\ computer\ keyboard.\r\n\ Amanda\ Schepp\r\n\ Mr.Hardman\r\n\ May\ 5th\r\n\ Assignment\ 4\r\n
 comment1.params=
 comment1.target=Piano()
 comment1.text=\r\n\ Make\ the\ piano.\r\n
 comment2.params=
 comment2.target=void\ makeKeys()
 comment2.text=\r\n\ makeKeys\ will\ make\ the\ keys\ and\ put\ them\ on\ the\ screen\r\n\ @Pram\ there\ are\ no\ parameters\r\n\ @Return\ nothing\ is\ returned\r\n
-numComments=3
+comment3.params=
+comment3.target=void\ makeAllKeys()
+comment3.text=\r\n\ makeAllKeys\ will\ add\ the\ black\ and\ white\ keys\ to\ the\ world\r\n\ @Param\ there\ are\ no\ parameters\r\n\ @return\ nothing\ is\ returned\r\n
+comment4.params=
+comment4.target=void\ act()
+comment5.params=keyDownLocations
+comment5.target=void\ checkForSeconds(int[])
+comment5.text=\r\n\ checkForSeonds\ will\ check\ to\ see\ if\ the\ user\ has\ played\ a\ second\r\n\ @Param\ keyDownLocaations\ tells\ the\ user\ what\ index\ the\ note\ being\ pressed\ is\ at\ and\ uses\ thst\ info\ to\ display\ text\ acordinly\r\n\ @return\ nothing\ is\ returned\r\n
+comment6.params=keyDownLocations
+comment6.target=void\ checkForTriads(int[])
+comment6.text=\r\n\ checkForThirds\ will\ check\ to\ see\ if\ the\ user\ has\ played\ a\ third\r\n\ @Param\ keyDownLocaations\ tells\ the\ user\ what\ index\ the\ note\ being\ pressed\ is\ at\ and\ uses\ thst\ info\ to\ display\ text\ acordinly\r\n\ @return\ nothing\ is\ returned\r\n
+comment7.params=keyDownLocations
+comment7.target=void\ checkForSevenths(int[])
+comment7.text=\r\n\ checkForSevenths\ will\ check\ to\ see\ if\ the\ user\ has\ played\ a\ seventth\r\n\ @Param\ keyDownLocaations\ tells\ the\ user\ what\ index\ the\ note\ being\ pressed\ is\ at\ and\ uses\ thst\ info\ to\ display\ text\ acordinly\r\n\ @return\ nothing\ is\ returned\r\n
+numComments=8

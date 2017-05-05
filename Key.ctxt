@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=Key
-comment0.text=\r\n\ Key\ class\r\n\ Amanda\ Schepp\r\n\ Mr.Hardman\r\n\ April\ 20th\r\n\ Assignment\ 3\r\n
+comment0.text=\r\n\ Key\ class\r\n\ Amanda\ Schepp\r\n\ Mr.Hardman\r\n\ May\ 5th\r\n\ Assignment\ 4\r\n
 comment1.params=
 comment1.target=Key()
 comment1.text=\r\n\ Create\ a\ new\ key.\r\n
@@ -13,4 +13,7 @@ comment3.text=\r\n\ Do\ the\ action\ for\ this\ key.\r\n
 comment4.params=
 comment4.target=void\ play()
 comment4.text=\r\n\ play\ will\ play\ the\ sound\ of\ the\ key\r\n\ @Param\ there\ are\ no\ parameters\r\n\ @Return\ nothing\ is\ returned\r\n
-numComments=5
+comment5.params=
+comment5.target=boolean\ checkDown()
+comment5.text=\r\n\ checkDown\ will\ return\ the\ boolean\ vairable\ isDown\r\n\ @return\ isDown\ is\ returned\r\n\ @param\ there\ are\ no\ parameters\r\n
+numComments=6
